@@ -1,0 +1,12 @@
+https://olucdenver-my.sharepoint.com/:u:/g/personal/arthashishbhai_gajera_ucdenver_edu/Eb5mUb-BxwhDuOYtdW6F3zQBv01iA5nhe9gfh7o_TJaaFQ?e=2A4Nwg
+
+
+the requirement to run this is to install unity 
+then run python RlTest4\script\activate
+check if there is mlagent , torch, torchvision , torchaudio.
+
+run mlagent-learn configuration.yaml --run-id=<idname>
+and then play the scence in unity 
+
+
+check the video for how to train and which file to copy and paste where to run the trained file.
